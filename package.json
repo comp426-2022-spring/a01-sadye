@@ -1,0 +1,23 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-sadye.git"
+  },
+  "author": "Sadye Franklin",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-sadye/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-sadye#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
